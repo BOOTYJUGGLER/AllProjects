@@ -1,0 +1,56 @@
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\bin\Debug\Millioners.exe.config
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\bin\Debug\Millioners.exe
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\bin\Debug\Millioners.pdb
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.csprojAssemblyReference.cache
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\MainWindow.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\App.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners_MarkupCompile.cache
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners_MarkupCompile.lref
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\App.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\MainWindow.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.g.resources
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.Properties.Resources.resources
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.csproj.GenerateResource.cache
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.csproj.CoreCompileInputs.cache
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.exe
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Millioners.pdb
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Igra.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Igra.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopr2.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopr2.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopros2.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopros3.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopros2.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopros3.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Pobeda.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopros5.g.cs
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Pobeda.baml
+C:\Users\TOP ADMIN\source\repos\Millioners\Millioners\obj\Debug\Vopros5.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\bin\Debug\Millioners.exe.config
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\bin\Debug\Millioners.exe
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\bin\Debug\Millioners.pdb
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.csprojAssemblyReference.cache
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Igra.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\MainWindow.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Pobeda.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopr2.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopros2.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopros3.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopros5.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\App.g.cs
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners_MarkupCompile.cache
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners_MarkupCompile.lref
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\App.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Igra.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\MainWindow.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Pobeda.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopr2.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopros2.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopros3.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Vopros5.baml
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.g.resources
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.Properties.Resources.resources
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.csproj.GenerateResource.cache
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.csproj.CoreCompileInputs.cache
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.exe
+C:\Users\rigs1\Desktop\WPF\Millioners\Millioners\obj\Debug\Millioners.pdb

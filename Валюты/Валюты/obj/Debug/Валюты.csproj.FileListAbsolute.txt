@@ -1,0 +1,16 @@
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\bin\Debug\Валюты.exe.config
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\bin\Debug\Валюты.exe
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\bin\Debug\Валюты.pdb
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.csprojAssemblyReference.cache
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\MainWindow.g.cs
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\App.g.cs
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты_MarkupCompile.cache
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты_MarkupCompile.lref
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\MainWindow.baml
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.g.resources
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.Properties.Resources.resources
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.csproj.GenerateResource.cache
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.csproj.CoreCompileInputs.cache
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.exe
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\Валюты.pdb
+C:\Users\TOP ADMIN\source\repos\Валюты\Валюты\obj\Debug\App.baml
